@@ -1,0 +1,7 @@
+{{ if .HasChildren }} 
+  {{ partial "header/header-option-nested.html" . }}
+{{ else }}
+  {{ partial "header/header-option-simple.html" . }}
+{{ end }}
+
+<link rel="icon" href="{{ "/favicon.ico" | relURL }}" type="image/x-icon">
