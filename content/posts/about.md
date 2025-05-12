@@ -13,7 +13,6 @@ showDate = false
   loop=false
 >}}
 "I'm not afraid of storms, for I'm learning how to sail my ship." — Louisa May Alcott
-Slowly but surely we'll get there...
 {{< /typeit >}}
 
 

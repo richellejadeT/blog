@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "RJLTuquero"
+title = 'Richelle Jade Tuquero'
 
 [params]
   displayName = "EN"
@@ -18,12 +18,12 @@ title = "RJLTuquero"
 [params.author]
    name = "Richelle Jade L. Tuquero"
    email = "richellejade.l.tuquero@gmail.com"
-   image = "IMG_3950.jpg"
+   image = "IMG_5311.jpg"
    imageQuality = 96
    headline = "PhD student in Theoretical Physics "
    bio = "Trying my best"
    links = [
-     { email = "mailto:richellejade.l.tuquero@gmail.com" },
+     # { email = "mailto:richellejade.l.tuquero@gmail.com" },
      { github = "https://github.com/richellejadeT" },
      { google = "https://scholar.google.com/citations?user=AEqTTAwAAAAJ&hl=en" },
      { orcid = "https://orcid.org/0000-0001-7928-9529" },
