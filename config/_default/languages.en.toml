@@ -20,7 +20,7 @@ title = 'Richelle Jade Tuquero'
    email = "richellejade.l.tuquero@gmail.com"
    image = "IMG_5311.jpg"
    imageQuality = 96
-   headline = "PhD student in Theoretical Physics "
+   headline = """<p>PhD student in Theoretical Physics</p><div style="max-width: 550px; font-size: 0.7em; margin: 0.75em auto 0 auto; text-align:justify; text-align-last:center;">Welcome to my personal website! I am currently exploring light-matter interactions and nonequilibrium dynamics in quantum many-body systems, under the mentorship of Prof. Oded Zilberberg, PhD.</div>"""
    bio = "Trying my best"
    links = [
      # { email = "mailto:richellejade.l.tuquero@gmail.com" },
