@@ -9,7 +9,7 @@ tags= ["New Publication"]
 +++
 
 # Phys. Rev. Lett. 134, 223601
-{{< badge >}} New article! {{< /badge >}} In this work, we use bifurcation theory to reveal how a limit cycle instability in an experimental quantum system gives rise to a Neimark–Sacker bifurcation, eventually resulting in the formation of a limit torus. Here is the abstract:
+{{< badge >}} New article! {{< /badge >}} In this work, we use bifurcation theory to reveal how a limit cycle instability in an experimental quantum system gives rise to a Neimark–Sacker bifurcation, eventually resulting in the formation of a limit torus. Here are the details:
 
 ### Torus Bifurcation of a Dissipative Time Crystal
 Jayson G. Cosme, Phatthamon Kongkhambut, Anton Bölian, Richelle Jade L. Tuquero, Jim Skulte, Ludwig Mathey, Andreas Hemmerich, Hans Keßler
