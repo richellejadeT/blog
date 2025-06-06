@@ -8,6 +8,7 @@ showDate = false
 
 ## Publications
 <ol>
+  <li>J. G. Cosme, P. Kongkhambut, A. Bölian, <strong>R. J. L. Tuquero</strong>, J. Skulte, L. Mathey, A. Hemmerich, H. Keßler, Torus bifurcation of a dissipative time crystal,  <a href="https://doi.org/10.1103/PhysRevLett.134.223601" target="_blank" style="text-decoration: underline;">Phys. Rev. Lett. 134, 223601 (2025). <a href="https://arxiv.org/abs/2411.00155" target="_blank" style="text-decoration: none;">[arXiv]</a></li>
   <li><strong>R. J. L. Tuquero</strong>, J. G. Cosme, Impact of quantum noise on phase transitions in an atom-cavity system with limit cycles, <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.063314" target="_blank" style="text-decoration: underline;">Phys. Rev. A 110, 063314, (2024).</a> <a href="https://arxiv.org/abs/2407.21390" target="_blank" style="text-decoration: none;">[arXiv]</a></li>
   <li><strong>R. J. L. Tuquero</strong>, J. Skulte, L. Mathey, J. G. Cosme, Dissipative time crystal in an atom-cavity system: Influence of trap and competing interactions, <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.043311" target="_blank" style="text-decoration: underline;">Phys. Rev. A 105, 043311, (2022).</a> <a href="https://arxiv.org/abs/2202.11952" target="_blank" style="text-decoration: none;">[arXiv]</a> </li>
 </ol>
@@ -16,7 +17,7 @@ showDate = false
 
 ## Preprints
 <ol>
-    <li>J. G. Cosme, P. Kongkhambut, A. Bölian, <strong>R. J. L. Tuquero</strong>, J. Skulte, L. Mathey, A. Hemmerich, H. Keßler, Torus bifurcation of a dissipative time crystal, Preprint. <a href="https://arxiv.org/abs/2411.00155" target="_blank" style="text-decoration: none;">[arXiv]</a></li>
+    <li><i>Currently nothing...yet</i>
 </ol>
 
 <hr>
@@ -32,9 +33,9 @@ showDate = false
 ## Conferences/Schools/Workshops 
 <ol>
   <li>International School on Open Quantum Many-Body Systems, Tutzing, Germany (April 1-4, 2025).
-  <li>Kick-off-Workshop FOR 5688, Berlin, Germany (March 24-26, 2025),</li>
-  <li>The 41st Samahang Pisika ng Pilipinas (SPP) Physics Conference and Annual Meeting, Siargao Island, Surigao del Norte, Philippines (July 19-21, 2023).</li>
-  <li>The 40th Samahang Pisika ng Pilipinas (SPP) Physics Conference and Annual Meeting, Legazpi City, Albay, Philippines (October 19-21, 2022).</li>
+  <li>Kick-off-Workshop FOR 5688, Berlin, Germany (March 24-26, 2025). <strong>(Poster) </strong></li>
+  <li>The 41st Samahang Pisika ng Pilipinas (SPP) Physics Conference and Annual Meeting, Siargao Island, Surigao del Norte, Philippines (July 19-21, 2023). <strong>(talk) </strong></li>
+  <li>The 40th Samahang Pisika ng Pilipinas (SPP) Physics Conference and Annual Meeting, Legazpi City, Albay, Philippines (October 19-21, 2022). <strong>(talk) </strong></li>
   <li>International Conference on Atomic Physics (ICAP) Summer School, online (July 4-15, 2022).</li>
-  <li>The 39th Samahang Pisika ng Pilipinas (SPP) Physics Conference and Annual Meeting, online (October 20-22, 2021).</li>
+  <li>The 39th Samahang Pisika ng Pilipinas (SPP) Physics Conference and Annual Meeting, online (October 20-22, 2021). <strong>(talk) </strong></li>
 </ol>
